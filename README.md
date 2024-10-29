@@ -34,7 +34,7 @@ The goal of this project is to create a personalized movie recommendation app th
 ## Video Output 🎥
 Watch the project demo here: 
 
-https://github.com/user-attachments/assets/51b5bfdf-e95b-446b-86fb-b5b7b54d38af
+https://github.com/user-attachments/assets/6aaa6392-5c25-4c7b-97c3-8a90c145ff97
 
 ## Requirements 📦
 To run this project, ensure you have the following dependencies installed:
@@ -52,6 +52,7 @@ You can install the required packages using pip:
 ```bash
 pip install -r requirements.txt
 ```
+
 ## Usage 🚀
 Clone the repository:
 ```bash
