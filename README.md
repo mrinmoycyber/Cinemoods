@@ -20,9 +20,10 @@ The goal of this project is to create a personalized movie recommendation app th
 ```plaintext
 ├── Cinemoods
 |   ├── Code/
-|   ├── model.py                                 # Emotion prediction model
 |   ├── UI/                                  
 │   ├── app.py                                   # Streamlit UI application
+|   ├── model_pkl.py                             # Emotion prediction model
+|   ├── model.ipynb 
 │   ├── Datasets/
 │   │   ├── netflix_titles.csv                   # Original dataset
 │   │   ├── netflix_cd.csv                       # Cleaned dataset
